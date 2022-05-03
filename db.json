@@ -1,0 +1,12 @@
+{
+  "register": {
+    "status": true,
+    "message": "Successfully registered"
+  },
+  "login": {
+    "token": "QWERTY",
+    "expireDate": "2022-09-22",
+    "username": "testuser",
+    "name": "Test User"
+  }
+}
