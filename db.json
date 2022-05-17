@@ -8,5 +8,71 @@
     "expireDate": "2022-09-22",
     "username": "testuser",
     "name": "Test User"
+  },
+  "products": [
+    {
+      "id": 0,
+      "image": "images/product.png",
+      "name": "Fire Silicone B1 FR"
+    },
+    {
+      "id": 1,
+      "image": "images/product.png",
+      "name": "Fire Silicone B1 FR"
+    },
+    {
+      "id": 2,
+      "image": "images/product.png",
+      "name": "Fire Silicone B1 FR"
+    },
+    {
+      "id": 3,
+      "image": "images/product.png",
+      "name": "Fire Silicone B1 FR"
+    },
+    {
+      "id": 4,
+      "image": "images/product.png",
+      "name": "Fire Silicone B1 FR"
+    },
+    {
+      "id": 5,
+      "image": "images/product.png",
+      "name": "Fire Silicone B1 FR"
+    }
+  ],
+  "productDetails": {
+    "id": 0,
+    "image": "images/product.png",
+    "name": "Fire Silicone B1 FR",
+    "similar_products": [
+      {
+        "id": 0,
+        "image": "images/product.png",
+        "name": "Fire Silicone B1 FR"
+      },
+      {
+        "id": 1,
+        "image": "images/product.png",
+        "name": "Fire Silicone B1 FR"
+      },
+      {
+        "id": 2,
+        "image": "images/product.png",
+        "name": "Fire Silicone B1 FR"
+      },
+      {
+        "id": 3,
+        "image": "images/product.png",
+        "name": "Fire Silicone B1 FR"
+      },
+      {
+        "id": 4,
+        "image": "images/product.png",
+        "name": "Fire Silicone B1 FR"
+      }
+    ],
+    "application": [],
+    "documents": []
   }
 }
