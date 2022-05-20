@@ -74,5 +74,65 @@
     ],
     "application": [],
     "documents": []
-  }
+  },
+  "history": [
+    {
+      "solutionId": 0,
+      "name": "Solution 1",
+      "dateSaved": 1652479200000,
+      "tags": [
+        {
+          "id": 0,
+          "name": "UZA 2022"
+        },
+        {
+          "id": 1,
+          "name": "UZA 2022 UZA 2022"
+        },
+        {
+          "id": 2,
+          "name": "UZA 2022"
+        }
+      ]
+    },
+    {
+      "solutionId": 3,
+      "name": "Solution 3",
+      "dateSaved": 1652479200000,
+      "tags": [
+        {
+          "id": 0,
+          "name": "UZA 2022"
+        }
+      ]
+    },
+    {
+      "solutionId": 2,
+      "name": "Solution 2",
+      "dateSaved": 1589385193000,
+      "tags": [
+        {
+          "id": 0,
+          "name": "UZA 2022"
+        }
+      ]
+    },
+    {
+      "solutionId": 9,
+      "name": "Solution 9",
+      "dateSaved": 1652133600000,
+      "tags": []
+    },
+    {
+      "solutionId": 6,
+      "name": "Solution 6",
+      "dateSaved": 1652133600000,
+      "tags": [
+        {
+          "id": 0,
+          "name": "UZA 2022"
+        }
+      ]
+    }
+  ]
 }
