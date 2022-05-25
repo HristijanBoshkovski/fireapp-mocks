@@ -18,27 +18,27 @@
     {
       "id": 1,
       "image": "/product.png",
-      "name": "Fire Silicone B1 FR"
+      "name": "Test Silicone B1 FR"
     },
     {
       "id": 2,
       "image": "/product.png",
-      "name": "Fire Silicone B1 FR"
+      "name": "Test1 Silicone B1 FR"
     },
     {
       "id": 3,
       "image": "/product.png",
-      "name": "Fire Silicone B1 FR"
+      "name": "Test2 Silicone B1 FR"
     },
     {
       "id": 4,
       "image": "/product.png",
-      "name": "Fire Silicone B1 FR"
+      "name": "Test3 Silicone B1 FR"
     },
     {
       "id": 5,
       "image": "/product.png",
-      "name": "Fire Silicone B1 FR"
+      "name": "Test4 Silicone B1 FR"
     }
   ],
   "productDetails": {
