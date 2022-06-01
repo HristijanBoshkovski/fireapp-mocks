@@ -45,7 +45,7 @@
     "id": 0,
     "image": "/product1.png",
     "name": "Fire Silicone B1 FR",
-    "similar_products": [
+    "similarProducts": [
       {
         "id": 0,
         "image": "/product.png",
