@@ -134,5 +134,66 @@
         }
       ]
     }
+  ],
+  "favorites": [
+    {
+      "solutionId": 0,
+      "name": "Solution 1",
+      "dateSaved": 1652479200000,
+      "products": [
+        {
+          "id": 0,
+          "name": "Fire Silicone B1 FR"
+        }
+      ]
+    },
+    {
+      "solutionId": 3,
+      "name": "Solution 3",
+      "dateSaved": 1652479200000,
+      "products": [
+        {
+          "id": 0,
+          "name": "Fire Silicone B1 FR"
+        },
+        {
+          "id": 1,
+          "name": "Soudafoam C&F"
+        }
+      ]
+    },
+    {
+      "solutionId": 2,
+      "name": "Solution 2",
+      "dateSaved": 1589385193000,
+      "products": [
+        {
+          "id": 0,
+          "name": "Fire Silicone B1 FR"
+        }
+      ]
+    },
+    {
+      "solutionId": 9,
+      "name": "Solution 9",
+      "dateSaved": 1652133600000,
+      "products": [
+        {
+          "id": 1,
+          "name": "Soudafoam C&F"
+        }
+      ]
+    },
+    {
+      "solutionId": 6,
+      "name": "Solution 6",
+      "dateSaved": 1652133600000,
+      "products": [
+        {
+          "id": 0,
+          "name": "Fire Silicone B1 FR"
+        }
+      ]
+    }
   ]
 }
