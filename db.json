@@ -129,6 +129,7 @@
     {
       "solutionId": 0,
       "name": "Solution 1",
+      "image": "/solution.png",
       "dateSaved": 1652479200000,
       "products": [
         {
@@ -140,6 +141,7 @@
     {
       "solutionId": 3,
       "name": "Solution 3",
+      "image": "/solution.png",
       "dateSaved": 1652479200000,
       "products": [
         {
@@ -155,6 +157,7 @@
     {
       "solutionId": 2,
       "name": "Solution 2",
+      "image": "/solution.png",
       "dateSaved": 1589385193000,
       "products": [
         {
@@ -166,6 +169,7 @@
     {
       "solutionId": 9,
       "name": "Solution 9",
+      "image": "/solution.png",
       "dateSaved": 1652133600000,
       "products": [
         {
@@ -177,6 +181,7 @@
     {
       "solutionId": 6,
       "name": "Solution 6",
+      "image": "/solution.png",
       "dateSaved": 1652133600000,
       "products": [
         {
