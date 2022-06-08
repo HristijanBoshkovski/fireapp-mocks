@@ -67,7 +67,7 @@
   },
   "history": [
     {
-      "solutionId": 0,
+      "id": 0,
       "name": "Solution 1",
       "dateSaved": 1652479200000,
       "tags": [
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "solutionId": 3,
+      "id": 3,
       "name": "Solution 3",
       "dateSaved": 1652479200000,
       "tags": [
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "solutionId": 2,
+      "id": 2,
       "name": "Solution 2",
       "dateSaved": 1589385193000,
       "tags": [
@@ -108,13 +108,13 @@
       ]
     },
     {
-      "solutionId": 9,
+      "id": 9,
       "name": "Solution 9",
       "dateSaved": 1652133600000,
       "tags": []
     },
     {
-      "solutionId": 6,
+      "id": 6,
       "name": "Solution 6",
       "dateSaved": 1652133600000,
       "tags": [
@@ -127,7 +127,7 @@
   ],
   "favorites": [
     {
-      "solutionId": 0,
+      "id": 0,
       "name": "Solution 1",
       "image": "/solution.png",
       "dateSaved": 1652479200000,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "solutionId": 3,
+      "id": 3,
       "name": "Solution 3",
       "image": "/solution.png",
       "dateSaved": 1652479200000,
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "solutionId": 2,
+      "id": 2,
       "name": "Solution 2",
       "image": "/solution.png",
       "dateSaved": 1589385193000,
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "solutionId": 9,
+      "id": 9,
       "name": "Solution 9",
       "image": "/solution.png",
       "dateSaved": 1652133600000,
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "solutionId": 6,
+      "id": 6,
       "name": "Solution 6",
       "image": "/solution.png",
       "dateSaved": 1652133600000,
